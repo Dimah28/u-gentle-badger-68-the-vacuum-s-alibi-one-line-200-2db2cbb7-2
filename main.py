@@ -13,7 +13,9 @@ The line was built for this bounty judge's own criteria, in order:
      from an appliance that is supposed to serve.
   3. Deadpan machine voice, smug about its battery: it "weighed" the
      crumb against its remaining 4% battery, like a cost-benefit
-     analysis, and the battery won.
+     analysis, and the battery won. The exact "4%" matters: a round
+     number would sound made up, a precise one sounds like a sensor
+     reading, which is what makes the machine's smugness believable.
   4. Surprise in a specific detail nobody expects: the exact "4%"
      battery, and the turn that the crumb is not worth *dying* for --
      a vacuum treating a cleaning run as a life-or-death mission.
